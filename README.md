@@ -1,0 +1,2 @@
+# Statics
+Static Images
